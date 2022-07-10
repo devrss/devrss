@@ -1,14 +1,14 @@
 # Hi, I'm Roman Sergienko 👋
-### I am web developer from Russia.
-<br/>
+<p>I am web developer from Russia.<p>
 
 ## Connect with me:
 [<img align="left" width="32px" src="https://img.icons8.com/windows/50/000000/globe.png" />][website]
 [<img align="right" width="32px" src="https://img.icons8.com/material/100/000000/mail.png" />][mail]
 <br />
-<br />
 
 ## Languages and tools
+
+<div align="center">
 
 I work with | Workflow | Want to study
 :---: | :---: | :---:
@@ -20,8 +20,7 @@ I work with | Workflow | Want to study
 ![6] | | ![17]
 ![7] | |
 
-<br />
-<br />
+</div>
 
 [website]: https://github.com/devrss
 [mail]: mailto:work.rss@ya.ru
