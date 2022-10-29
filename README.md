@@ -22,7 +22,7 @@ I work with | Workflow | Want to study
 
 </div>
 
-[website]: https://github.com/devrss
+[website]: https://devrss.github.io/
 [mail]: mailto:work.rss@ya.ru
 
 [1]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=FFF
