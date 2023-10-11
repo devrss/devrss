@@ -2,8 +2,8 @@
 <p>I am web developer from Russia.<p>
 
 ## Connect with me:
-[<img align="left" width="32px" src="https://img.icons8.com/windows/50/000000/globe.png" />][website]
-[<img align="right" width="32px" src="https://img.icons8.com/material/100/000000/mail.png" />][mail]
+[<img align="left" width="48px" src="https://img.icons8.com/fluency/96/web-design--v2.png" />][website]
+[<img align="right" width="48px" src="https://img.icons8.com/fluency/96/mail--v2.png" />][mail]
 <br />
 
 ## Languages and tools
